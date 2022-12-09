@@ -1,13 +1,12 @@
 # An updated generic concept for *Muscari* s.l. using genome wide SNP data
 
-Here I document the the assembly of double-digest restriction site-associated DNA sequencing (ddRAD) data set for the geophyte genus *Muscari*, currently accepted for publication in Taxon as follows:
+Here I document the assembly and analyses of double-digest restriction site-associated DNA (ddRAD) sequencing data for the geophyte genus *Muscari*. The corresponding paper is currently accepted for publication in Taxon as follows:
 
 **Böhnert T**, **Neumann M**, **Quandt D**, **Weigend M**. *accpt*. Phylogeny based generic reclassification of *Muscari* sensu lato (Asparagaceae) using plastid and genomic DNA. ***Taxon***.
 
-A second notebook documents the tree plotting of additional phylogentic trees from cholorplast data.
+This repository consists primarily of two Jupyter-Notebooks: One documents the assembly and filtering of the ddRAD data, as well as parts of its analysis. In the second notebook I document how I plotted the phylogentic trees of an additional data set of cholorplast seqeunce data.
 
 <img width="90" src="https://raw.githubusercontent.com/TimBoeh/Muscari_ddRAD/master/img/Muscari_sivrihisardaghlarensis_256x256.png" align="left" style="border: 10 px solid #ccc"/>
 
+The grape hyacinth (***Muscari*** Mill.) represents an important ornamental plant group in Asparagaceae subfamily Scilloideae, comprising some 80 species distributed mainly in the Mediterranean. However, genus delimitation has repeatedly shifted over the past two centuries and a general consensus has not been reached so far. To tackle this problem we made use of a classical chlorplast marker phylogeny as well as genome wide SNP data. We perform concatenated maximum likelihood inference for both datasets as well as a coalescent-based approach and principal component analysis (PCA) on the ddRAD data. We find that the morphological characters traditionally used to distinguish different genera are not diagnostic for the clades here retrieved. Also, the segregates *Pseudomuscari* and *Leopoldia* are deeply nested in *Muscari* and we therefore propose a broadly defined *Muscari* with five subgenera. The subgenera roughly correspond to previously recognized entities, with the exception of the newly identified clade here proposed as *M*. subg. *Pulchella* subg. nov.
 
-
-The grape hyacinth (***Muscari*** Mill.) represents an important ornamental plant group in Asparagaceae subfamily Scilloideae, comprising some 80 species distributed mainly in the Mediterranean. However, genus delimitation has repeatedly shifted over the past two centuries and a general consensus has not been reached so far.
