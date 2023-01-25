@@ -2,7 +2,7 @@
 
 Here I document the assembly and analyses of double-digest restriction site-associated DNA (ddRAD) sequencing data for the geophyte genus *Muscari*. The corresponding paper is currently accepted for publication in Taxon as follows:
 
-**Böhnert T**, **Neumann M**, **Quandt D**, **Weigend M**. 2023. Phylogeny based generic reclassification of *Muscari* sensu lato (Asparagaceae) using plastid and genomic DNA. ***Taxon*** 00: 1-17. [doi: 10.1002/tax.12864](https://doi.org/10.1002/tax.12864)
+**Böhnert T**, **Neumann M**, **Quandt D** & **Weigend M**. 2023. Phylogeny based generic reclassification of *Muscari* sensu lato (Asparagaceae) using plastid and genomic DNA. ***Taxon*** 00: 1-17. [doi: 10.1002/tax.12864](https://doi.org/10.1002/tax.12864)
 
 This repository consists primarily of two Jupyter-Notebooks: One documents the assembly and filtering of the ddRAD data, as well as parts of its analyses. In the second notebook I document how I plotted the phylogentic trees of an additional data set of cholorplast seqeunce data. 
 
