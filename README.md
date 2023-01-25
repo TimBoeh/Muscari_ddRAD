@@ -1,6 +1,6 @@
 # An updated generic concept for *Muscari* s.l. using genome wide SNP data
 
-Here I document the assembly and analyses of double-digest restriction site-associated DNA (ddRAD) sequencing data for the geophyte genus *Muscari*. The corresponding paper is currently accepted for publication in Taxon as follows:
+Here I document the assembly and analyses of double-digest restriction site-associated DNA (ddRAD) sequencing data for the geophyte genus *Muscari*. The corresponding paper was published Jan. 2023 in Taxon:
 
 **Böhnert T**, **Neumann M**, **Quandt D** & **Weigend M**. 2023. Phylogeny based generic reclassification of *Muscari* sensu lato (Asparagaceae) using plastid and genomic DNA. ***Taxon*** 00: 1-17. [doi: 10.1002/tax.12864](https://doi.org/10.1002/tax.12864)
 
